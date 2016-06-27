@@ -33,9 +33,7 @@ RuleComposer.myMethod("Hello")
 
 import RuleComposer._
 
-import RuleComposer1._
-
-myMethod("Hello Again")
+myMethod("Hello Again after git")
 
 //Excercise: Create a command line application that prints out all the command line arguments
 
